@@ -40,3 +40,7 @@ test.use({ storageState: 'auth.json' });
 ...
 
 ```
+## Run test
+```
+npx playwright test 
+```
